@@ -1,0 +1,48 @@
+<style>
+            div{
+                background-color: rgba(153, 26, 26, 0);
+                width: px;
+            }
+            body {
+                background:rgba(7, 7, 7, 0)
+            }
+            body {
+  background: rgb(0, 0, 0) url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW14MTU5b2V3eWU2YnZldDBxYTh6eXZ0b3hwcGV1MWYycWR2NmluciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b3M2WfKlKot9f2PXo/giphy.webp") repeat fixed center;
+}
+a {
+  color: rgb(255, 0, 0);
+}
+body {
+                        font-family: 'Courier New', Courier, monospace;
+                        margin: 0;
+                        padding: 0;
+                    }
+                    header {
+                        background-color: #00000000;
+                        color: white;
+                        text-align: center;
+                        padding: 1em 0;
+                    }
+                    nav {
+                        text-align: center;
+                        background-color: #00000067;
+                    }
+                    nav a {
+                        color: white;
+                        padding: 14px 20px;
+                        display: inline-block;
+                        text-decoration: none;
+                    }
+                    nav a:hover {
+                        background-color: #00000094;
+                        color: rgb(163, 15, 15);
+                    }
+                    main {
+                        padding: 20px;
+                    }
+                    article {
+                        border-bottom: 1px solid #ddd;
+                        margin-bottom: 20px;
+                        padding-bottom: 10px;
+                    }
+        </style>
